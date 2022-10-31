@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Background Music.ogg-c5d019512fde75ddaf45d10e172eb0cd.oggstr"
+
+[deps]
+
+source_file="res://Pong Game Assets/Background Music.ogg"
+dest_files=[ "res://.import/Background Music.ogg-c5d019512fde75ddaf45d10e172eb0cd.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
